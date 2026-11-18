@@ -273,4 +273,4 @@ Add the appropriate project license before redistributing this repository.
 ---
 
 ## Authors
-SAANVI MAHARANA    SAATHVIK SAI SUVARNA         S BHUVANA SHREE        K PREKSHA
+SAANVI MAHARANA | SAATHVIK SAI SUVARNA    |     S BHUVANA SHREE    |    K PREKSHA
